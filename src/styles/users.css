@@ -1,0 +1,13 @@
+.card-text {
+    text-align: left;
+}
+.users{
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+button{
+    padding-right: 50px;
+}
+.h5{
+    font-size: 40px;
+}

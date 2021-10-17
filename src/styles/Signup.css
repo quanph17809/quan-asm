@@ -1,0 +1,17 @@
+input{
+    max-width: 500px;
+   padding-right: 1000px;
+}
+.mb-3{
+    text-align: left;
+}
+.form-control{
+    display: flex;
+}
+form{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 32rem;
+}
